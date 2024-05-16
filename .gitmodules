@@ -1,0 +1,9 @@
+[submodule "ACloudDrive-Backend"]
+	path = ACloudDrive-Backend
+	url = https://github.com/DiscLRx/ACloudDrive-Backend.git
+[submodule "a-cloud-drive-admin"]
+	path = a-cloud-drive-admin
+	url = https://github.com/DiscLRx/a-cloud-drive-admin.git
+[submodule "a-cloud-drive-user"]
+	path = a-cloud-drive-user
+	url = https://github.com/DiscLRx/a-cloud-drive-user.git
